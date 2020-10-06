@@ -125,6 +125,14 @@ files:
     if __name__ == '__main__':
         RegexTest('regex.regex').run_tests()
   learner_created: false
+- name: regex/test_script.py
+  visible: true
+  text: print("Hallo Adam".__reversed__())
+  learner_created: true
 feedback_link: https://hyperskill.org/projects/114/stages/624/implement
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations! Continue on <a href="https://hyperskill.org/projects/114/stages/624/implement">JetBrains
+    Academy</a>
+  time: Tue, 06 Oct 2020 09:57:08 UTC
 record: -1
