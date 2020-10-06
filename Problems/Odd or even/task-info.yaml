@@ -1,0 +1,29 @@
+type: code
+custom_name: Odd or even?
+files:
+- name: main.py
+  visible: true
+  text: |-
+    # tests for the is_even() function
+    import unittest
+
+
+    class TestIsEven(unittest.TestCase):
+
+        def test_when_output_true(self):
+            # write your tests here
+
+        def test_when_output_false(self):
+            # write your tests here
+
+
+    if __name__ == '__main__':
+        unittest.main()
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/10804
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/10804">JetBrains
+    Academy</a></html>
+  time: Mon, 05 Oct 2020 16:27:38 UTC
+record: -1

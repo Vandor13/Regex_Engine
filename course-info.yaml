@@ -8,4 +8,5 @@ summary: Regular expressions are a fundamental part of computer science and natu
 programming_language: Python
 content:
 - Regex Engine
+- Problems
 mode: Study

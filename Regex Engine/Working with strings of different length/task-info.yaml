@@ -57,5 +57,9 @@ files:
         RegexTest('regex.regex').run_tests()
   learner_created: false
 feedback_link: https://hyperskill.org/projects/114/stages/621/implement
-status: Unchecked
-record: -1
+status: Solved
+feedback:
+  message: Congratulations! Continue on <a href="https://hyperskill.org/projects/114/stages/621/implement">JetBrains
+    Academy</a>
+  time: Mon, 05 Oct 2020 15:30:20 UTC
+record: 3

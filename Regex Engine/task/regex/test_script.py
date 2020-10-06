@@ -1,0 +1,1 @@
+print("Hallo Adam".__reversed__())
